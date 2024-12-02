@@ -1,0 +1,4 @@
+Titan -prints out all commands
+
+*IP releated commands*
+Titan-ip -prints out the current IP address
