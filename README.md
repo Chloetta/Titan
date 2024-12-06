@@ -32,6 +32,6 @@ This is the **0.1.0 Beta Release**, proudly developed by **Chloet** and released
 
 ---
 
-Thank you for exploring **Titan**! We look forward to your feedback as we continue improving for the full release.  
+Thank you for exploring **Titan**! We look forward to your feedback as we continue improving **Titan** for the future.  
 
 ---
