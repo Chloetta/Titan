@@ -31,9 +31,10 @@ This is the **0.1.0 Beta Release**, proudly developed by **Chloet** and released
 - **Release Date**: December 2, 2024  
 
 ---
-## Update-Log
--12/17/24
-Added Rust Package configuration to project respiratory
+## Update Log
+
+### 12/17/24  
+- Added Rust package configuration to project repository.  
 ---
 
 Thank you for exploring **Titan**! We look forward to your feedback as we continue improving **Titan** for the future.  
